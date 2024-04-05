@@ -9,7 +9,7 @@ LABEL "com.github.actions.name"="rsync-deploy"
 LABEL "com.github.actions.description"="GitHub Action used to deploy files using rsync"
 
 LABEL "repository"="https://github.com/Flaconi/actions-rsync-deploy"
-LABEL "maintainer"="Flaconi DevOps"
+LABEL "maintainer"="Flaconi DevOps <devops@flaconi.de>"
 
 
 ADD entrypoint.sh /entrypoint.sh
